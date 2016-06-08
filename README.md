@@ -21,6 +21,20 @@ YesChef! demonstrates object-oriented programming with Java, routing using the S
 * Creating an order deducts ingredients from the inventory, using SQL queries joining multiple tables.
 * Use of MetroUI CSS library provides a more familiar and mobile-first UI.
 
+## Screenshots
+
+### Kitchen View
+
+![YesChef-1](YesChef-1.png?raw=true "Kitchen View")
+
+### Server View
+
+![YesChef-2](YesChef-2.png?raw=true "Server View")
+
+### Manager View
+
+![YesChef-3](YesChef-3.png "Manager View")
+
 ## Setup
 
 ### Install Required Programs
